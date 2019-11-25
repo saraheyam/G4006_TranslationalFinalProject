@@ -12,13 +12,13 @@ To derive a graphical representation of the relevant disease-gene relationships,
 4. ChEMBL drug structures
 
 ## References
-[1] Southall, Noel T, et al. “The Use or Generation of Biomedical Data and Existing Medicines to Discover and Establish New Treatments for Patients with Rare Diseases – Recommendations of the IRDiRC Data Mining and Repurposing Task Force.” Orphanet Journal of Rare Diseases, vol. 14, no. 1, 2019, doi:10.1186/s13023-019-1193-3.
-[2] Sameh K. Mohamed, Aayah Nounu, and Vít Nováček. 2019. Drug target discovery using knowledge graph embeddings. In Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing (SAC '19). ACM, New York, NY, USA, 11-18. DOI: https://doi.org/10.1145/3297280.3297282
-[3] “Public Law 107-280: Rare Diseases Act of 2002”. (116 Stat. 1988; Date: 11/06/2002). Text from: United States Public Laws
-[4] Global Genes - RARE Facts. Retrieved from https://globalgenes.org/rare-facts/
-[5] Hao, Yunda; Cai, Menglan; Li, min: 'Drug repositioning via matrix completion with multi-view side information', IET Systems Biology, 2019, 13, (5), p. 267-275, DOI: 10.1049/iet-syb.2018.5129
+1. Southall, Noel T, et al. “The Use or Generation of Biomedical Data and Existing Medicines to Discover and Establish New Treatments for Patients with Rare Diseases – Recommendations of the IRDiRC Data Mining and Repurposing Task Force.” Orphanet Journal of Rare Diseases, vol. 14, no. 1, 2019, doi:10.1186/s13023-019-1193-3.
+2. Sameh K. Mohamed, Aayah Nounu, and Vít Nováček. 2019. Drug target discovery using knowledge graph embeddings. In Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing (SAC '19). ACM, New York, NY, USA, 11-18. DOI: https://doi.org/10.1145/3297280.3297282
+3. “Public Law 107-280: Rare Diseases Act of 2002”. (116 Stat. 1988; Date: 11/06/2002). Text from: United States Public Laws
+4. Global Genes - RARE Facts. Retrieved from https://globalgenes.org/rare-facts/
+5. Hao, Yunda; Cai, Menglan; Li, min: 'Drug repositioning via matrix completion with multi-view side information', IET Systems Biology, 2019, 13, (5), p. 267-275, DOI: 10.1049/iet-syb.2018.5129
 IET Digital Library, https://digital-library.theiet.org/content/journals/10.1049/iet-syb.2018.5129
-[6] Xiang Yue, Zhen Wang, Jingong Huang, Srinivasan Parthasarathy, Soheil Moosavinasab, Yungui Huang, Simon M Lin, Wen Zhang, Ping Zhang, Huan Sun, Graph embedding on biomedical networks: methods, applications and evaluations, Bioinformatics, , btz718, https://doi.org/10.1093/bioinformatics/btz718
-[7] Orphanet: an online database of rare diseases and orphan drugs. Copyright, INSERM 1997. Available at http://www.orpha.net Accessed 27 Oct 2019.
-[8] Wishart DS, Feunang YD, Guo AC, Lo EJ, Marcu A, Grant JR, Sajed T, Johnson D, Li C, Sayeeda Z, Assempour N, Iynkkaran I, Liu Y, Maciejewski A, Gale N, Wilson A, Chin L, Cummings R, Le D, Pon A, Knox C, Wilson M. DrugBank 5.0: a major update to the DrugBank database for 2018. Nucleic Acids Res. 2017 Nov 8. doi: 10.1093/nar/gkx1037.
-[9] Kanehisa, M. and Goto, S.; KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic Acids Res. 28, 27-30 (2000).
+6. Xiang Yue, Zhen Wang, Jingong Huang, Srinivasan Parthasarathy, Soheil Moosavinasab, Yungui Huang, Simon M Lin, Wen Zhang, Ping Zhang, Huan Sun, Graph embedding on biomedical networks: methods, applications and evaluations, Bioinformatics, , btz718, https://doi.org/10.1093/bioinformatics/btz718
+7. Orphanet: an online database of rare diseases and orphan drugs. Copyright, INSERM 1997. Available at http://www.orpha.net Accessed 27 Oct 2019.
+8. Wishart DS, Feunang YD, Guo AC, Lo EJ, Marcu A, Grant JR, Sajed T, Johnson D, Li C, Sayeeda Z, Assempour N, Iynkkaran I, Liu Y, Maciejewski A, Gale N, Wilson A, Chin L, Cummings R, Le D, Pon A, Knox C, Wilson M. DrugBank 5.0: a major update to the DrugBank database for 2018. Nucleic Acids Res. 2017 Nov 8. doi: 10.1093/nar/gkx1037.
+9. Kanehisa, M. and Goto, S.; KEGG: Kyoto Encyclopedia of Genes and Genomes. Nucleic Acids Res. 28, 27-30 (2000).
