@@ -1,0 +1,1 @@
+{"date": "2019-11-26-175003", "dimension": 100, "input": "./input/OrphaNet_disease_gene.edgelist", "method": "GraRep", "results": {"accuracy": 0.5797636632200887, "auc_pr": 0.5929181425809369, "auc_roc": 0.6247499067263909, "f1": 0.5921146953405018}, "seed": 0, "task": "link-prediction", "user": "janiceyang"}
